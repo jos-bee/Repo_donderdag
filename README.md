@@ -1,2 +1,2 @@
 # Repo_donderdag
-test van donderdag 23 juli
+test van donderdag 23 juli 2020
